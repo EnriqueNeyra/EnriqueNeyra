@@ -1,4 +1,4 @@
-### Hi, I am Enrique 👋
+### Hey, I'm Enrique
 
 I design and build open-source hardware + software: air quality monitors, e-ink displays, Raspberry Pi projects, and a self-hosted personal health record.
 
